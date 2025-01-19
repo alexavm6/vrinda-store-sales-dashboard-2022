@@ -13,6 +13,14 @@ that, Vrinda can understand their customers and grow sales in 2023.
 
 You can see the dataset here [Vrinda Store Dataset](./dataset.csv)
 
+### SQL Analysis
+
+Explore the following resources:
+
+- [SQL Analysis Script:](./analysis.sql) The SQL script used for data analysis.
+- [Query Results:](./analysis.docx) A document containing the results of the executed queries.
+- [Database Backup (.bacpac):](./vrindaStore.bacpac) A backup file of the database, including its schema and data.
+
 ### Project
 
 You can see the final project here [Project](./dashboard.xlsx)
